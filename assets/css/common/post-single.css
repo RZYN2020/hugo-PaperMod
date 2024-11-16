@@ -192,6 +192,7 @@
 .post-content code {
     margin: auto 4px;
     padding: 4px 6px;
+    font-family:Consolas,Monaco,Lucida Console,Liberation Mono,DejaVu Sans Mono,Bitstream Vera Sans Mono,Courier New;
     font-size: 0.78em;
     line-height: 1.5;
     background: var(--code-bg);
