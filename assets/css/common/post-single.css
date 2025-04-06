@@ -408,3 +408,8 @@ img.in-text {
     display: inline;
     margin: auto;
 }
+
+.post-content img[src*="#half"] { 
+    max-width:  50%; 
+    display: block;
+  }
